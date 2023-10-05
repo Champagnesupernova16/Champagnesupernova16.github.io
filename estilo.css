@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.index{
+    background-color: rgba(6, 18, 36, 1);
+}
+
+header{
+    display: flex;
+
+    align-items: center;
+
+}
+.sobre h1{
+    margin-left: 70px;
+}
+
+.inicio h1{
+    
+    background-color: blue;
+    margin-left: 150px;
+    
+
+
+}
+
+.datos h2{
+    margin: 25px;
+
+
+}
+.inicio a{
+
+    margin-left: 70px;
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+}
+
+.botones{
+    width: 1440px;
+}
+
+.botones a{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+}
+
+.sobremi{
+    color: aliceblue;
+    margin-left: 70px;
+    width: 249px;
+    height: 150px;
+
+}
+
+.habilidadesheader h1{
+    margin-left: 350px;
+    
+}
+
+.habilidadesheader a{
+
+    margin-left: 70px;
+    color:black;
+    text-decoration: none;
+    font-size: 50px;
+
+}
+.datosha h2{
+    margin: 100px;
+     
+}
+.estudio{
+
+    text-align: right;
+    align-items: flex-end;
+    padding-top: 150px;
+    margin-right: 70px;
+}
+
+
+img{
+    width: 211px;
+    height: 221px;
+    border-radius: 300px;
+    margin-left: 70px;
+
+}
+
+.acercademi{
+    background-color: rgba(140, 219, 236, 1);
+    width: 1440px;
+    height: 1044px;
+
+
+}
